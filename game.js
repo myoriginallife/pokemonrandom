@@ -14,7 +14,7 @@
   const LEVEL_MODES = ["easy", "normal", "hard"];
   const LEVEL_GENS = ["1", "2", "3", "all"];
   const QUESTIONS_PER_LEVEL = 10;
-  const SHARE_URL = "https://brr.kr/17lhxh";
+  const SHARE_URL = "https://myoriginallife.github.io/pokemonrandom/";
 
   const LIVES_MAX = 3;
   const BASE_SCORE = 10;
